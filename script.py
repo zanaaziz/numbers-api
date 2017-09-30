@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 30 09:57:59 2017
 
-@author: Zana
+@author: Zana Daniel
 """
 
 # this package allows us to make HTTP requests
