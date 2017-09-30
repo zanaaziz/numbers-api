@@ -1,5 +1,7 @@
 # Numbers API
-Just me messing around with Python and API calls. This program is connected to a very cool open API which takes in a request with a number and then returns with a fact about that given number. Simple, basic but cool!
+Just me messing around with Python and API calls. This program is connected to a very cool open API which takes in a request with a number and then returns with a fact about that given number.
+
+Simple, basic, but cool!
 
 # How It Works
 - Program connects to API endpoint at http://numbersapi.com/
