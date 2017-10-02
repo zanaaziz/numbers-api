@@ -6,4 +6,5 @@ Simple, basic, but cool!
 # How It Works
 - Program connects to API endpoint at http://numbersapi.com/
 - A response object makes a GET request to that endpoint.
+- The program will ask the user to enter a number and then return a fact about that number from the API.
 - If the user for some reason doesn't input a whole number (integer), the program will nicely let him/her know and then generate a random number itself and give a fact to them about that random generated number.
